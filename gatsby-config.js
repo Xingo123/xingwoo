@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: 'Xing Woo',
     description: 'Xing Woo Blog',
-    siteUrl: 'https://gatstrap.netlify.com',
+    siteUrl: 'https://xingwoo.netlify.com',
     author: 'xingwoo',
     twitter: 'xingwoo',
     adsense: '',
