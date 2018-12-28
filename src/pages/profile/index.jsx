@@ -167,7 +167,7 @@ class Profile extends React.Component {
           <div className="container">
             <div className="row">
               <div className="col-lg-12">
-                <h2 className="section-heading">Features</h2>
+                <h2 className="section-heading">Current Job</h2>
                 <hr className="border-primary" />
               </div>
             </div>
@@ -176,8 +176,8 @@ class Profile extends React.Component {
             <div className="row justify-content-md-center">
               <div className="col-lg-8">
                 <p>
-                  My name is Xing Woo<br />
-                  Currently working with new NodeJS applications
+                  My name is Xing Woo and I am a software developer at The Learning Network.<br />
+                  We are working with .NET Core applications and developing websites to sell books <br />
                 </p>
               </div>
             </div>
@@ -204,7 +204,7 @@ class Profile extends React.Component {
                   alt="work1"
                   className="rounded-circle mx-auto"
                 />
-                <p>Yomu</p>
+                <p>The Learning Network</p>
               </div>
               <div className="col-md-6 slide-right" data-emergence="hidden">
                 <img
@@ -226,7 +226,7 @@ class Profile extends React.Component {
               </div>
               <div className="col-md-6 text-left">
                 <li>
-                  <a href="https://www.wokfouryou.nl">Wok Four You</a>
+                  <a href="https://www.wokfouryou.nl" target="_blank">Wok Four You</a>
                 </li>
               </div>
             </div>
